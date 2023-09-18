@@ -3,6 +3,7 @@
 
 Welcome to the Crime Data Analysis Project! This project aims to analyze and gain insights from a dataset containing crime-related information. We explore patterns, trends, and statistics to better understand the dynamics of crime in a specific region. By doing so, we hope to contribute to informed decision-making and raise awareness about the challenges related to crime in our community.
 The dataset used for this analysis was obtained from Kaggle. The data was in CSV format and required preprocessing before analysis.
+The file was too big to upload. 'crime.csv' is the name.
 **Data Analysis Steps**
 1. Data cleaning and preprocessing.
 2. Exploratory data analysis (EDA) to understand the dataset.
